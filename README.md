@@ -2,7 +2,7 @@
 
 Landing page minimalista tipo "link en bio" para **GTresD**, servicio de impresión 3D personalizada en Merlo, Buenos Aires, Argentina.
 
-## 🚀 Demo
+##  Demo
 
 Ver proyecto en vivo → **[GTresD Calculator](https://jgastonmurua.github.io/GTresD/)**
 
