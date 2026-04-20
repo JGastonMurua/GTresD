@@ -4,7 +4,7 @@ Landing page minimalista tipo "link en bio" para **GTresD**, servicio de impresi
 
 ## Demo
 
-🔗 [gtresd.github.io]([https://jgastonmurua.github.io/GTresD/]
+🔗 [gtresd.github.io]([https://jgastonmurua.github.io/GTresD/])
 
 ## Stack
 
